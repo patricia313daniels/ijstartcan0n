@@ -1,4 +1,9 @@
 # ijstartcan0n
+
+<div class='buttoncss' style='text-align: center;'>
+<a href='https://ij.setupcanon-ijstart.com/webmanual/'><img alt='ij.start.canon, ij.start.canon setup, ij start printer setup' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7UKxgKm34snxNetvB3y05BBSJfWtctH8s63OJBdkWScnbHZ7mqNUT22Tr0nSoU-rVluY-dlfkYhtPgo9JvwrZWBchlqjSVEhYJHy0QCqWlaeScyUbbRKKUE3U46AKCPD1oZnURpSTDwPCegmT-m4YGnlzImtDvMSa_Dr0bpFQah1N-q9yfsLYs3AOA/s320/get%20started%20button.png'/></a>
+</div>
+
 <h2>ij.start.canon setup - ij.start.canon setup printer drivers</h2>
 
 If you have bought a new Canon printer, then visit <a href="https://github.com/ijstartkannon/ijstartkanon/">ij.start.canon</a> from any updated web browser to download the latest Canon printer drivers for your device. Canon offers printer drivers, setup files, software, and tools for Maxify, Pixma, and other printer models. You can get the online manual for your specific printer model by visiting ij.start.canon from any browser.
