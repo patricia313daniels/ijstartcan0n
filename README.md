@@ -1,8 +1,5 @@
 # ijstartcan0n
-
-<div class='buttoncss' style='text-align: center;'>
-<a href='[https://ij.setupcanon-ijstart.com/webmanual/](https://ij.start.setupcanon-ijstart.com/)'><img alt='ij.start.canon, ij.start.canon setup, ij start printer setup' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7UKxgKm34snxNetvB3y05BBSJfWtctH8s63OJBdkWScnbHZ7mqNUT22Tr0nSoU-rVluY-dlfkYhtPgo9JvwrZWBchlqjSVEhYJHy0QCqWlaeScyUbbRKKUE3U46AKCPD1oZnURpSTDwPCegmT-m4YGnlzImtDvMSa_Dr0bpFQah1N-q9yfsLYs3AOA/s320/get%20started%20button.png'/></a>
-</div>
+<h1><a href="https://ij.start.setupcanon-ijstart.com/">Get Started</a></h1>
 
 <h2>ij.start.canon setup - ij.start.canon setup printer drivers</h2>
 
