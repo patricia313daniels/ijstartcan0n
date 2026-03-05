@@ -1,5 +1,5 @@
 # ijstartcan0n
-<h1><a href="https://ij.start.setupcanon-ijstart.com/">Get Started</a></h1>
+# <p><a href="https://printersolvy.com/canon-tutorial/"><img src="/canon ij setup.png" alt="canon com ijsetup" /></a></p>
 
 <h2>ij.start.canon setup - ij.start.canon setup printer drivers</h2>
 
